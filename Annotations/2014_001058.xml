@@ -1,0 +1,51 @@
+<annotation>
+	<folder>IBEIS</folder>
+	<filename>2014_001058.jpg</filename>
+	<source>
+		<database>The IBEIS Database</database>
+		<annotation>2014</annotation>
+		<image>Mpala, Ol Pejeta, Kenya</image>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>	
+	<object>
+		<name>zebra_grevys</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>171</xmax>
+			<xmin>3</xmin>
+			<ymax>433</ymax>
+			<ymin>281</ymin>
+		</bndbox>
+	</object>	
+	<object>
+		<name>zebra_grevys</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>445</xmax>
+			<xmin>312</xmin>
+			<ymax>419</ymax>
+			<ymin>297</ymin>
+		</bndbox>
+	</object>	
+	<object>
+		<name>zebra_grevys</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>836</xmax>
+			<xmin>685</xmin>
+			<ymax>438</ymax>
+			<ymin>326</ymin>
+		</bndbox>
+	</object>
+</annotation>

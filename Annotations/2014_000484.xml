@@ -1,0 +1,39 @@
+<annotation>
+	<folder>IBEIS</folder>
+	<filename>2014_000484.jpg</filename>
+	<source>
+		<database>The IBEIS Database</database>
+		<annotation>2014</annotation>
+		<image>Mpala, Ol Pejeta, Kenya</image>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>	
+	<object>
+		<name>rhino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>658</xmax>
+			<xmin>236</xmin>
+			<ymax>493</ymax>
+			<ymin>140</ymin>
+		</bndbox>
+	</object>	
+	<object>
+		<name>rhino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>879</xmax>
+			<xmin>668</xmin>
+			<ymax>549</ymax>
+			<ymin>132</ymin>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,42 @@
+%YAML:1.0
+
+annotation:
+  folder: "IBEIS"
+  filename: "2014_000599.jpg"
+  source:
+    database: "The IBEIS Database"
+    annotation: "2014"
+    image: "Mpala, Ol Pejeta, Kenya"
+  size:
+    width: "900"
+    height: "600"
+    depth: "3"
+  segmented: "0"
+	object:
+	- name: "wilddog"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "702"
+			  ymin: "217"
+			  xmax: "441"
+			  ymax: "174"
+	- name: "wilddog"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "464"
+			  ymin: "8"
+			  xmax: "165"
+			  ymax: "21"
+	- name: "wilddog"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "785"
+			  ymin: "523"
+			  xmax: "598"
+			  ymax: "473"

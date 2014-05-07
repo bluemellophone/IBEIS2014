@@ -1,0 +1,39 @@
+<annotation>
+	<folder>IBEIS</folder>
+	<filename>2014_000200.jpg</filename>
+	<source>
+		<database>The IBEIS Database</database>
+		<annotation>2014</annotation>
+		<image>Mpala, Ol Pejeta, Kenya</image>
+	</source>
+	<size>
+		<width>900</width>
+		<height>451</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>	
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>177</xmax>
+			<xmin>17</xmin>
+			<ymax>378</ymax>
+			<ymin>223</ymin>
+		</bndbox>
+	</object>	
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>738</xmax>
+			<xmin>454</xmin>
+			<ymax>359</ymax>
+			<ymin>20</ymin>
+		</bndbox>
+	</object>
+</annotation>

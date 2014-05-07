@@ -1,0 +1,51 @@
+<annotation>
+	<folder>IBEIS</folder>
+	<filename>2014_000548.jpg</filename>
+	<source>
+		<database>The IBEIS Database</database>
+		<annotation>2014</annotation>
+		<image>Mpala, Ol Pejeta, Kenya</image>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>	
+	<object>
+		<name>wilddog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>700</xmax>
+			<xmin>317</xmin>
+			<ymax>356</ymax>
+			<ymin>120</ymin>
+		</bndbox>
+	</object>	
+	<object>
+		<name>wilddog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>880</xmax>
+			<xmin>635</xmin>
+			<ymax>575</ymax>
+			<ymin>349</ymin>
+		</bndbox>
+	</object>	
+	<object>
+		<name>wilddog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>857</xmax>
+			<xmin>726</xmin>
+			<ymax>193</ymax>
+			<ymin>32</ymin>
+		</bndbox>
+	</object>
+</annotation>

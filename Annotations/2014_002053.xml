@@ -1,0 +1,27 @@
+<annotation>
+	<folder>IBEIS</folder>
+	<filename>2014_002053.jpg</filename>
+	<source>
+		<database>The IBEIS Database</database>
+		<annotation>2014</annotation>
+		<image>Mpala, Ol Pejeta, Kenya</image>
+	</source>
+	<size>
+		<width>867</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>	
+	<object>
+		<name>zebra_plains</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmax>650</xmax>
+			<xmin>128</xmin>
+			<ymax>539</ymax>
+			<ymin>54</ymin>
+		</bndbox>
+	</object>
+</annotation>
