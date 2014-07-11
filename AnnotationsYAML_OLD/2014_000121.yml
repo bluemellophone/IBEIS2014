@@ -1,0 +1,42 @@
+%YAML:1.0
+
+annotation:
+  folder: "IBEIS"
+  filename: "2014_000121.jpg"
+  source:
+    database: "The IBEIS Database"
+    annotation: "2014"
+    image: "Mpala, Ol Pejeta, Kenya"
+  size:
+    width: "900"
+    height: "600"
+    depth: "3"
+  segmented: "0"
+	object:
+	- name: "elephant"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "470"
+			  ymin: "392"
+			  xmax: "388"
+			  ymax: "344"
+	- name: "elephant"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "648"
+			  ymin: "595"
+			  xmax: "386"
+			  ymax: "348"
+	- name: "elephant"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "859"
+			  ymin: "819"
+			  xmax: "395"
+			  ymax: "358"

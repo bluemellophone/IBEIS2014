@@ -1,0 +1,42 @@
+%YAML:1.0
+
+annotation:
+  folder: "IBEIS"
+  filename: "2014_000263.jpg"
+  source:
+    database: "The IBEIS Database"
+    annotation: "2014"
+    image: "Mpala, Ol Pejeta, Kenya"
+  size:
+    width: "900"
+    height: "599"
+    depth: "3"
+  segmented: "0"
+	object:
+	- name: "giraffe"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "279"
+			  ymin: "142"
+			  xmax: "337"
+			  ymax: "209"
+	- name: "giraffe"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "399"
+			  ymin: "352"
+			  xmax: "232"
+			  ymax: "152"
+	- name: "giraffe"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "515"
+			  ymin: "471"
+			  xmax: "258"
+			  ymax: "188"

@@ -1,0 +1,24 @@
+%YAML:1.0
+
+annotation:
+  folder: "IBEIS"
+  filename: "2014_001860.jpg"
+  source:
+    database: "The IBEIS Database"
+    annotation: "2014"
+    image: "Mpala, Ol Pejeta, Kenya"
+  size:
+    width: "881"
+    height: "900"
+    depth: "3"
+  segmented: "0"
+	object:
+	- name: "zebra_plains"
+      pose: "Unspecified"
+      truncated: "0"
+      difficult: "0"
+      bndbox:
+			  xmin: "866"
+			  ymin: "266"
+			  xmax: "543"
+			  ymax: "86"
